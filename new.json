@@ -1,0 +1,8 @@
+var person = {
+  last name: "Туреико",
+  first name: "Валерия",
+  surname: "Михайловна",
+  age: 26,
+  animal: 1,
+  salary: "700$"
+};
