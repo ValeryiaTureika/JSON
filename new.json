@@ -1,5 +1,5 @@
 var person = {
-  last name: "Туреико",
+  last name: "Турейко",
   first name: "Валерия",
   surname: "Михайловна",
   age: 26,
