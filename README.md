@@ -1,6 +1,6 @@
 # JSON
 
-## GIT Homework 1
+## GIT 1
 
 Для выполнения задания у вас должен быть установлен для Windows - GitBash.
 Создан аккаунт в GitHub
